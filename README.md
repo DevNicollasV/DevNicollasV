@@ -1,7 +1,6 @@
 ### Opa!! Eu sou o Nicollas 👋
 
 - :telescope: Estou estudando HTML e CSS
-- :seedling: Pretendo trabalhar com Front-end
 
 ##
 
