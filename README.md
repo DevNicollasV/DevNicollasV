@@ -1,6 +1,6 @@
 
 ## Tecnologias
-h
+
 <a href='https://html.com/'>
 <img src="https://skillicons.dev/icons?i=html"/>
 </a>
