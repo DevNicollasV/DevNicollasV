@@ -20,6 +20,16 @@ My name is Nicollas, I am 14 years old and I am a developer for more than 4 mont
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
+## DEVOPS
+
+[![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
+
+## BANCO DE DADOS
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
+
+
+
 
 
 
