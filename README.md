@@ -14,7 +14,7 @@ My name is Nicollas, I am 14 years old and I am a developer for more than 4 mont
 
 ## IDE
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## Frameworks
 
@@ -22,11 +22,8 @@ My name is Nicollas, I am 14 years old and I am a developer for more than 4 mont
 
 ## DEVOPS
 
-[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,docker,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
 
-## BANCO DE DADOS
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
 
 
 
